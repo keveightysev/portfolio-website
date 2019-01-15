@@ -2761,7 +2761,7 @@ input, select, textarea {
 		}
 
 			#header .logo.fa-lightbulb-o:before {
-				left: -0.075em;
+				/* left: -0.075em; */
 				position: relative;
 			}
 
