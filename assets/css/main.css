@@ -76,6 +76,7 @@ input, select, textarea {
 
 	html {
 		box-sizing: border-box;
+		font-size: 62.5%;
 	}
 
 	*, *:before, *:after {
@@ -104,7 +105,7 @@ input, select, textarea {
 	body, input, select, textarea {
 		color: #6e6e6e;
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 16pt;
+		font-size: 2.2rem;
 		font-weight: 400;
 		line-height: 1.75em;
 	}
@@ -152,21 +153,21 @@ input, select, textarea {
 		}
 
 	h2 {
-		font-size: 1.75em;
+		font-size: 2.8rem;
 	}
 
 	h3 {
-		font-size: 1.5em;
+		font-size: 2.4rem;
 	}
 
 	sub {
-		font-size: 0.8em;
+		font-size: 1.2rem;
 		position: relative;
 		top: 0.5em;
 	}
 
 	sup {
-		font-size: 0.8em;
+		font-size: 1.2rem;
 		position: relative;
 		top: -0.5em;
 	}
@@ -2067,7 +2068,7 @@ input, select, textarea {
 	label {
 		display: block;
 		color: #5b5b5b;
-		font-size: 0.8em;
+		font-size: 1.2rem;
 		font-weight: 700;
 		letter-spacing: 0.125em;
 		line-height: 1.75em;
@@ -2225,7 +2226,7 @@ input, select, textarea {
 				-ms-transition: -ms-transform 0.1s ease-in-out, font-size 0.1s ease-in-out;
 				transition: transform 0.1s ease-in-out, font-size 0.1s ease-in-out;
 				color: #fff;
-				font-size: 6em;
+				font-size: 9.6rem;
 				height: 1em;
 				left: 50%;
 				line-height: 1em;
@@ -2427,7 +2428,7 @@ input, select, textarea {
 
 		ul.icons li {
 			display: inline-block;
-			font-size: 1.25em;
+			font-size: 2rem;
 			line-height: 1em;
 			padding-left: 0.5em;
 		}
@@ -2483,7 +2484,7 @@ input, select, textarea {
 
 			table.default th {
 				color: #5b5b5b;
-				font-size: 0.8em;
+				font-size: 1.2rem;
 				font-weight: 700;
 				letter-spacing: 0.125em;
 				line-height: 1.75em;
@@ -2516,7 +2517,7 @@ input, select, textarea {
 		color: #ffffff;
 		cursor: pointer;
 		display: inline-block;
-		font-size: 0.9em;
+		font-size: 1.4rem;
 		font-weight: 700;
 		letter-spacing: 0.125em;
 		line-height: 3.25em;
@@ -2575,7 +2576,7 @@ input, select, textarea {
 		input[type="reset"].small,
 		input[type="button"].small,
 		.button.small {
-			font-size: 0.8em;
+			font-size: 1.2em;
 		}
 
 /* Box */
@@ -2752,7 +2753,7 @@ input, select, textarea {
 			color: #ffffff;
 			cursor: default;
 			display: inline-block;
-			font-size: 2.25em;
+			font-size: 3.6rem;
 			height: 2.35em;
 			line-height: 2.35em;
 			margin: 0 0 0.75em 0;
@@ -2766,12 +2767,12 @@ input, select, textarea {
 			}
 
 		#header h1 {
-			font-size: 2.5em;
+			font-size: 4rem;
 			margin: 0;
 		}
 
 		#header p {
-			font-size: 1.5em;
+			font-size: 2.4rem;
 			line-height: 1.5em;
 			margin: 0.25em 0 0 0;
 		}
@@ -2860,7 +2861,7 @@ input, select, textarea {
 
 		#footer .copyright {
 			color: rgba(255, 255, 255, 0.5);
-			font-size: 0.8em;
+			font-size: 1.2rem;
 			line-height: 1em;
 			margin: 3em 0 0 0;
 		}
@@ -2917,21 +2918,21 @@ input, select, textarea {
 		/* Basic */
 
 			body, input, select, textarea {
-				font-size: 14pt;
+				font-size: 1.9rem;
 			}
 
 			h2 {
-				font-size: 1.5em;
+				font-size: 2.4rem;
 			}
 
 			h3 {
-				font-size: 1.25em;
+				font-size: 2rem;
 			}
 
 		/* Section/Article */
 
 			header.major p {
-				font-size: 1.25em;
+				font-size: 2rem;
 			}
 
 		/* Header */
@@ -2941,11 +2942,11 @@ input, select, textarea {
 			}
 
 				#header h1 {
-					font-size: 2.25em;
+					font-size: 3.6rem;
 				}
 
 				#header p {
-					font-size: 1.25em;
+					font-size: 2rem;
 					line-height: 1.65em;
 				}
 
@@ -2958,15 +2959,15 @@ input, select, textarea {
 		/* Basic */
 
 			body, input, select, textarea {
-				font-size: 13pt;
+				font-size: 1.7rem;
 			}
 
 			h2 {
-				font-size: 1.35em;
+				font-size: 2.1rem;
 			}
 
 			h3 {
-				font-size: 1.15em;
+				font-size: 1.8rem;
 			}
 
 		/* Section/Article */
@@ -2977,7 +2978,7 @@ input, select, textarea {
 			}
 
 				header.major p {
-					font-size: 1.15em;
+					font-size: 1.8rem;
 				}
 
 			footer.major {
@@ -3024,7 +3025,7 @@ input, select, textarea {
 				}
 
 				#header p {
-					font-size: 1.15em;
+					font-size: 1.8rem;
 				}
 
 		/* Footer */
@@ -3055,7 +3056,7 @@ input, select, textarea {
 		/* Basic */
 
 			body, input, select, textarea {
-				font-size: 12pt;
+				font-size: 1.6rem;
 			}
 
 	}
@@ -3085,17 +3086,17 @@ input, select, textarea {
 		/* Basic */
 
 			h2 {
-				font-size: 1em;
+				font-size: 1.6rem;
 			}
 
 			h3 {
-				font-size: 1em;
+				font-size: 1.6rem;
 			}
 
 		/* Section/Article */
 
 			header p {
-				font-size: 0.8em;
+				font-size: 1.2rem;
 			}
 
 			header.major {
@@ -3107,7 +3108,7 @@ input, select, textarea {
 				}
 
 				header.major p {
-					font-size: 0.8em;
+					font-size: 1.2rem;
 				}
 
 			footer.major {
@@ -3172,15 +3173,15 @@ input, select, textarea {
 				}
 
 				#header .logo {
-					font-size: 1.5em;
+					font-size: 2.4rem;
 				}
 
 				#header h1 {
-					font-size: 1.25em;
+					font-size: 2rem;
 				}
 
 				#header p {
-					font-size: 1em;
+					font-size: 1.6em;
 				}
 
 		/* Footer */
